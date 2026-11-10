@@ -1,0 +1,6 @@
+{
+  "dependencies": ["langchain_openai", "langchain-core", "langgraph", "httpx", "."],
+  "graphs": {
+    "forge_agent": "./forge_agent/agent.py:agent"
+  }
+}
